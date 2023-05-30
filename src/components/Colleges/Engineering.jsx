@@ -57,7 +57,7 @@ const Engineering = () => {
 
 <p>Direct: +251914035511 | Fax: +251344452170/23/15</p>
 
-<p>Email: hbhailay@gmail.com</p>
+<p>Email: yotorethiopian01@gmail.com</p>
             </div>
         </div>
       </div>
